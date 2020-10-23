@@ -1,8 +1,7 @@
 ## Namaste! Welcome to my GitHub Profile 🙏 
 
-👨‍💻 CTF Player </br>
-
-<img src="https://tryhackme.com/img/logo/thm_logo_circle.png" width="22px"> [TryHackMe Profile](https://tryhackme.com/p/547y4m)
+- 👨‍💻 CTF Player </br>
+- 📚 Learner till the end of life
 
 ### Connect with me on 😎 
 
@@ -12,9 +11,11 @@ src="https://camo.githubusercontent.com/96683fb94f1925109397c012fc649ae7936a7b4b
 </br>
 </br>
 
-[<img align="left" width="108px" Color="black" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*3BP9i12zmh99F4fyjUdi3w.png&f=1&nofb=1">](https://medium.com/@satyam29k)
+[<img align="left" width="108px" Color="black" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*3BP9i12zmh99F4fyjUdi3w.png&f=1&nofb=1">](https://medium.com/@satyam29k)</br>
  
- </br>
+[<img src="https://tryhackme.com/img/logo/thm_logo_circle.png" width="40px">](https://tryhackme.com/p/547y4m) </br>
+ 
+[<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg">](https://open.spotify.com/playlist/0JQDJe3ROTbmC0k3ZIIDgH?si=LyT4LAbFSsuC89yNxuFgcA)</br>
  
  ### More in progress...... 
 
