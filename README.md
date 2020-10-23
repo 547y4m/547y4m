@@ -18,9 +18,9 @@ src="https://camo.githubusercontent.com/96683fb94f1925109397c012fc649ae7936a7b4b
  
 [<img align="left" src="https://tryhackme.com/img/logo/thm_logo_circle.png" width="40px">](https://tryhackme.com/p/547y4m)
 [<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg">](https://open.spotify.com/playlist/0JQDJe3ROTbmC0k3ZIIDgH?si=LyT4LAbFSsuC89yNxuFgcA)
-[<img align="left" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" width="40px">](https://www.instagram.com/5atyam.kanojiya/)<br>
+[<img align="left" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" width="40px">](https://www.instagram.com/5atyam.kanojiya/)
  
- ### More in progress...... 
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=547y4m&show_icons=true&hide_border=true) 
 
 
 <!--
