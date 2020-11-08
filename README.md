@@ -10,13 +10,8 @@
 
 ### Connect with me on :
 
-[<img align="left" 
-src="https://camo.githubusercontent.com/96683fb94f1925109397c012fc649ae7936a7b4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"> ](https://www.linkedin.com/in/satyam-kanojiya-2975281b1/)
-
-<br>
-<br>
-
-[<img align="left" width="108px" Color="black" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*3BP9i12zmh99F4fyjUdi3w.png&f=1&nofb=1">](https://medium.com/@satyam29k)<br><br>
+[<img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;">](https://www.linkedin.com/in/satyam-kanojiya-2975281b1/)
+[<img src="https://camo.githubusercontent.com/79687b17ae25c4b4dc4141f187f1fbad2efbe1bd9a48ce11a7fe8cb573b6971f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d656469756d2d3033613537613f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d303030303030266c6f676f3d4d656469756d266c696e6b3d68747470733a2f2f6d656469756d2e636f6d2f406a6f626f776f6e7562692f" alt="Medium" data-canonical-src="https://img.shields.io/badge/-Medium-03a57a?style=flat-square&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@jobowonubi/" style="max-width:100%;">](https://medium.com/@satyam29k)
  
 [<img align="left" src="https://tryhackme.com/img/logo/thm_logo_circle.png" width="40px">](https://tryhackme.com/p/547y4m)
 [<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg">](https://open.spotify.com/playlist/0JQDJe3ROTbmC0k3ZIIDgH?si=LyT4LAbFSsuC89yNxuFgcA)
