@@ -16,7 +16,10 @@
  
 [<img align="left" src="https://assets.tryhackme.com/img/favicon.png" width="40px">](https://tryhackme.com/p/547y4m)
 [<img align="left" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg">](https://open.spotify.com/playlist/0JQDJe3ROTbmC0k3ZIIDgH?si=LyT4LAbFSsuC89yNxuFgcA)
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Kanojiya's DEV Profile" height="40" width="40">](https://dev.to/547y4m)      
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Kanojiya's DEV Profile" height="40" width="40">](https://dev.to/547y4m)    
+
+### Badges :
+<img align="left" width="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" class="mx-auto max-w-75 h-auto align-middle" style="transform: rotate(6deg);">
  
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=547y4m&show_icons=true&hide_border=true) 
 
