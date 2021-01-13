@@ -20,6 +20,8 @@
 
 ### Badges :
 [<img align="left" width="100" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Hacktoberfest 2020" class="mx-auto max-w-75 h-auto align-middle" style="transform: rotate(6deg);">](https://dev.to/547y4m)
+
+[<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/791c58ae-ff7f-4ea9-8dfc-c63ac27a08bc/final_blue_team_star_challenge.png" alt="Blue Team Star Challenge" width="110">](https://www.youracclaim.com/badges/31e1cf15-598c-4a75-a2f6-714c77a2e1ba/public_url)
  
 <!--![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=547y4m&show_icons=true&hide_border=true) 
 
