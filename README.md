@@ -8,7 +8,8 @@
 - 👨‍💻 CTF Player </br>
 - 📚 Learner till the end of life
 - 📸 Amateur mobile photographer
-- 🖊 Life is full of 0 and 1 just make your move with proper caution.
+
+🖊 *Life is full of 0 and 1, just make your move with proper caution.*
 
 
  
