@@ -18,7 +18,7 @@
  
 [<img src="https://toppng.com/uploads/thumbnail/spotify-icon-green-logo-spotify-logo-png-hd-11562850769qhvdy39jaf.png" height="40" width="40">](https://open.spotify.com/playlist/0JQDJe3ROTbmC0k3ZIIDgH?si=LyT4LAbFSsuC89yNxuFgcA)
 [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Kanojiya's DEV Profile" height="40" width="40">](https://dev.to/547y4m) 
-[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="Satyam Kanojiya's HackerRank Profile" height="40" width="40">](https://www.hackerrank.com/547y4m)
+[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFjiWOgmSVg3g/company-logo_200_200/0?e=2159024400&v=beta&t=6ylX0XZI4-3_aX5nXpNANj-RuurjOTC-WQMo23zZB58" alt="Satyam Kanojiya's HackerRank Profile" height="37" width="40">](https://www.hackerrank.com/547y4m)
 
 ### Badges :
 [<img src="https://github.com/547y4m/547y4m/blob/main/547y4m.png" width="250">](https://tryhackme.com/p/547y4m)
